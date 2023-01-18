@@ -1,0 +1,1340 @@
+[
+    {
+        "digitalCode": "A2",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Adansi North District",
+        "Coverage": "Fomena"
+    },
+    {
+        "digitalCode": "A3",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Adansi South District",
+        "Coverage": "New Edubiase"
+    },
+    {
+        "digitalCode": "A4",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Bosome Freho District",
+        "Coverage": "Asiwa"
+    },
+    {
+        "digitalCode": "A9",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Bosome Freho Ext ",
+        "Coverage": "Unkown"
+    },
+    {
+        "digitalCode": "A6",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Offinso North District",
+        "Coverage": "Akomadan"
+    },
+    {
+        "digitalCode": "A7",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Offinso South Municipal District",
+        "Coverage": "New Offinso"
+    },
+    {
+        "digitalCode": "AA",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Asante Akim South District",
+        "Coverage": "Juaso"
+    },
+    {
+        "digitalCode": "AB",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Bekwai Municipal District",
+        "Coverage": "Bekwai"
+    },
+    {
+        "digitalCode": "AC",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Asante Akim Central Municipal District",
+        "Coverage": "Konongo"
+    },
+    {
+        "digitalCode": "AD",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Kwabre East District",
+        "Coverage": "Mamponteng"
+    },
+    {
+        "digitalCode": "AE",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Ejisu Juaben Municipal District",
+        "Coverage": "Ejisu"
+    },
+    {
+        "digitalCode": "AF",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Afigya Kwabre District",
+        "Coverage": "Kodie"
+    },
+    {
+        "digitalCode": "AG",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Atwima Kwanwoma District",
+        "Coverage": "Atwima Foase"
+    },
+    {
+        "digitalCode": "AH",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Atwima Nwabiagya District",
+        "Coverage": "Nkawie"
+    },
+    {
+        "digitalCode": "AI",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Atwima Mponua District",
+        "Coverage": "Nyinahin"
+    },
+    {
+        "digitalCode": "AJ",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Ejura Sekyedumase Municipal District",
+        "Coverage": "Ejura"
+    },
+    {
+        "digitalCode": "AK",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Kumasi Metropolitan District",
+        "Coverage": "Kumasi"
+    },
+    {
+        "digitalCode": "AM",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Mampong Municipal District",
+        "Coverage": "Mampong"
+    },
+    {
+        "digitalCode": "AN",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Asante Akim North District",
+        "Coverage": "Agogo"
+    },
+    {
+        "digitalCode": "AO",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Obuasi Municipal District",
+        "Coverage": "Obuasi"
+    },
+    {
+        "digitalCode": "AP",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Sekyere Afram Plains District",
+        "Coverage": "Drobonso"
+    },
+    {
+        "digitalCode": "AQ",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Sekyere Central District",
+        "Coverage": ""
+    },
+    {
+        "digitalCode": "AR",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Sekyere East District",
+        "Coverage": "Effiduase"
+    },
+    {
+        "digitalCode": "AS",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Asokore Mampong Municipal District",
+        "Coverage": ""
+    },
+    {
+        "digitalCode": "AT",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Bosomtwe District",
+        "Coverage": "Kuntanase"
+    },
+    {
+        "digitalCode": "AU",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Kumawu District",
+        "Coverage": "Kumawu"
+    },
+    {
+        "digitalCode": "AV",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Amansie Central District",
+        "Coverage": "Jacobu"
+    },
+    {
+        "digitalCode": "AW",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Amansie West District",
+        "Coverage": "Manso Nkwanta"
+    },
+    {
+        "digitalCode": "AX",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Ahafo Ano North District",
+        "Coverage": "Tepa"
+    },
+    {
+        "digitalCode": "AY",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Ahafo Ano South District",
+        "Coverage": "Mankranso"
+    },
+    {
+        "digitalCode": "AZ",
+        "oldRegion": "Ashanti oldRegion",
+        "District": "Sekyere South District",
+        "Coverage": "Agona"
+    },
+    {
+        "digitalCode": "B2",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Tano North District",
+        "Coverage": "Duayaw-Nkwanta"
+    },
+    {
+        "digitalCode": "B3",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Tano South District",
+        "Coverage": "Bechem"
+    },
+    {
+        "digitalCode": "BA",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Atebubu-Amantin District",
+        "Coverage": "Atebubu"
+    },
+    {
+        "digitalCode": "BB",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Berekum Municipal District",
+        "Coverage": "Berekum"
+    },
+    {
+        "digitalCode": "BC",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Banda District",
+        "Coverage": "Banda Ahenkro"
+    },
+    {
+        "digitalCode": "BD",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Dormaa Municipal District",
+        "Coverage": "Dormaa-Ahenkro"
+    },
+    {
+        "digitalCode": "BE",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Dormaa East District",
+        "Coverage": "Wamfie"
+    },
+    {
+        "digitalCode": "BF",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Dormaa West District",
+        "Coverage": "Nkrankwanta"
+    },
+    {
+        "digitalCode": "BG",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Sene East District",
+        "Coverage": "Kajaji"
+    },
+    {
+        "digitalCode": "BH",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Sene West District",
+        "Coverage": "Kwame Danso"
+    },
+    {
+        "digitalCode": "BI",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Jaman South District",
+        "Coverage": "Drobo"
+    },
+    {
+        "digitalCode": "BJ",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Jaman North District",
+        "Coverage": "Sampa"
+    },
+    {
+        "digitalCode": "BK",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Kintampo North Municipal District",
+        "Coverage": "Kintampo"
+    },
+    {
+        "digitalCode": "BL",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Kintampo South District",
+        "Coverage": "Jema"
+    },
+    {
+        "digitalCode": "BN",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Nkoranza North District",
+        "Coverage": "Busunya"
+    },
+    {
+        "digitalCode": "BO",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Nkoranza South Municipal District",
+        "Coverage": "Nkoranza"
+    },
+    {
+        "digitalCode": "BP",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Pru District",
+        "Coverage": "Yeji"
+    },
+    {
+        "digitalCode": "BQ",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Asutifi North District",
+        "Coverage": "Kenyasi"
+    },
+    {
+        "digitalCode": "BR",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Asutifi South District",
+        "Coverage": "Hwidiem"
+    },
+    {
+        "digitalCode": "BS",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Sunyani Municipal District",
+        "Coverage": "Sunyani"
+    },
+    {
+        "digitalCode": "BT",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Techiman Municipal District",
+        "Coverage": "Techiman"
+    },
+    {
+        "digitalCode": "BU",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Asunafo North Municipal District",
+        "Coverage": "Goaso"
+    },
+    {
+        "digitalCode": "BV",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Asunafo South District",
+        "Coverage": "Kukuom"
+    },
+    {
+        "digitalCode": "BW",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Wenchi Municipal District",
+        "Coverage": "Wenchi"
+    },
+    {
+        "digitalCode": "BX",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Techiman North District",
+        "Coverage": "Tuobodom"
+    },
+    {
+        "digitalCode": "BY",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Sunyan West District",
+        "Coverage": "Odomase"
+    },
+    {
+        "digitalCode": "BZ",
+        "oldRegion": "Brong Ahafo oldRegion",
+        "District": "Tain District",
+        "Coverage": "Nsawkaw"
+    },
+    {
+        "digitalCode": "CA",
+        "oldRegion": "Central oldRegion",
+        "District": "Abura Asebu Kwamankese District",
+        "Coverage": "Dunkwa"
+    },
+    {
+        "digitalCode": "CB",
+        "oldRegion": "Central oldRegion",
+        "District": "Asikuma Odoben Brakwa District",
+        "Coverage": "Breman Asikuma"
+    },
+    {
+        "digitalCode": "CC",
+        "oldRegion": "Central oldRegion",
+        "District": "Cape Coast Metropolitan District",
+        "Coverage": "Cape Coast"
+    },
+    {
+        "digitalCode": "CE",
+        "oldRegion": "Central oldRegion",
+        "District": "Effutu Municipal District",
+        "Coverage": "Winneba"
+    },
+    {
+        "digitalCode": "CF",
+        "oldRegion": "Central oldRegion",
+        "District": "Ekumfi District",
+        "Coverage": "Essarkyir"
+    },
+    {
+        "digitalCode": "CG",
+        "oldRegion": "Central oldRegion",
+        "District": "Gomoa East District",
+        "Coverage": "Afransi"
+    },
+    {
+        "digitalCode": "CH",
+        "oldRegion": "Central oldRegion",
+        "District": "Twifo Heman Lower Denkyira District",
+        "Coverage": "Heman"
+    },
+    {
+        "digitalCode": "CI",
+        "oldRegion": "Central oldRegion",
+        "District": "Gomoa West District",
+        "Coverage": "Apam"
+    },
+    {
+        "digitalCode": "CJ",
+        "oldRegion": "Central oldRegion",
+        "District": "Ajumako Enyan Esiam District",
+        "Coverage": "Ajumako"
+    },
+    {
+        "digitalCode": "CK",
+        "oldRegion": "Central oldRegion",
+        "District": "Komenda Edina Eguafo Municipal District",
+        "Coverage": "Elmina"
+    },
+    {
+        "digitalCode": "CM",
+        "oldRegion": "Central oldRegion",
+        "District": "Mfantseman Municipal District",
+        "Coverage": "Saltpond"
+    },
+    {
+        "digitalCode": "CO",
+        "oldRegion": "Central oldRegion",
+        "District": "Agona West Municipal District",
+        "Coverage": "Swedru"
+    },
+    {
+        "digitalCode": "CP",
+        "oldRegion": "Central oldRegion",
+        "District": "Agona East District",
+        "Coverage": "Nsaba"
+    },
+    {
+        "digitalCode": "CR",
+        "oldRegion": "Central oldRegion",
+        "District": "Assin North Municipal District",
+        "Coverage": "Assin Fosu"
+    },
+    {
+        "digitalCode": "CS",
+        "oldRegion": "Central oldRegion",
+        "District": "Assin South District",
+        "Coverage": "Nsuaem-Kyekyewere"
+    },
+    {
+        "digitalCode": "CT",
+        "oldRegion": "Central oldRegion",
+        "District": "Twifo-Ati Morkwa District",
+        "Coverage": "Twifo Praso"
+    },
+    {
+        "digitalCode": "CU",
+        "oldRegion": "Central oldRegion",
+        "District": "Upper Denkyira East Municipal District",
+        "Coverage": "Dunkwa-on-Offin"
+    },
+    {
+        "digitalCode": "CV",
+        "oldRegion": "Central oldRegion",
+        "District": "Upper Denkyira West District",
+        "Coverage": "Diaso"
+    },
+    {
+        "digitalCode": "CW",
+        "oldRegion": "Central oldRegion",
+        "District": "Awutu Senya District",
+        "Coverage": "Awutu Breku"
+    },
+    {
+        "digitalCode": "CX",
+        "oldRegion": "Central oldRegion",
+        "District": "Awutu Senya East Municipal District",
+        "Coverage": "Kasoa"
+    },
+    {
+        "digitalCode": "E2",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Akuapem North Municipal District",
+        "Coverage": "Akropong"
+    },
+    {
+        "digitalCode": "E3",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Akuapem South District",
+        "Coverage": "Aburi"
+    },
+    {
+        "digitalCode": "EA",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Asuogyaman District",
+        "Coverage": "Atimpoku"
+    },
+    {
+        "digitalCode": "EB",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Birim Central Municipal District",
+        "Coverage": "Akim Oda"
+    },
+    {
+        "digitalCode": "ED",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Denkyembour District",
+        "Coverage": "Akwatia"
+    },
+    {
+        "digitalCode": "EE",
+        "oldRegion": "Eastern oldRegion",
+        "District": "East Akim Municipal District",
+        "Coverage": "Kibi"
+    },
+    {
+        "digitalCode": "EF",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Fanteakwa District",
+        "Coverage": "Begoro"
+    },
+    {
+        "digitalCode": "EG",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Nsawam Adoagyiri Municipal District",
+        "Coverage": "Nsawam"
+    },
+    {
+        "digitalCode": "EH",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Kwahu East District",
+        "Coverage": "Abetifi"
+    },
+    {
+        "digitalCode": "EI",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Kwahu South District",
+        "Coverage": "Mpreaso"
+    },
+    {
+        "digitalCode": "EJ",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Kwahu West Municipal District",
+        "Coverage": "Nkawkaw"
+    },
+    {
+        "digitalCode": "EK",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Kwaebibirem District",
+        "Coverage": "Kade"
+    },
+    {
+        "digitalCode": "EL",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Lower Manya Krobo Municipal District",
+        "Coverage": "Odumase"
+    },
+    {
+        "digitalCode": "EM",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Akyemansa District",
+        "Coverage": "Ofoase"
+    },
+    {
+        "digitalCode": "EN",
+        "oldRegion": "Eastern oldRegion",
+        "District": "New Juaben Municipal District",
+        "Coverage": "Koforidua"
+    },
+    {
+        "digitalCode": "EO",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Ayensuano District",
+        "Coverage": "Coaltar"
+    },
+    {
+        "digitalCode": "EP",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Kwahu Afram Plains North District",
+        "Coverage": "Donkorkrom"
+    },
+    {
+        "digitalCode": "EQ",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Kwahu Afram Plains South District",
+        "Coverage": "Tease"
+    },
+    {
+        "digitalCode": "ES",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Suhum Municipal District",
+        "Coverage": "Suhum"
+    },
+    {
+        "digitalCode": "ET",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Atiwa District",
+        "Coverage": "Kwabeng"
+    },
+    {
+        "digitalCode": "EU",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Upper Manya Krobo District",
+        "Coverage": "Asesewa"
+    },
+    {
+        "digitalCode": "EV",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Upper West Akim District",
+        "Coverage": "Adeiso"
+    },
+    {
+        "digitalCode": "EW",
+        "oldRegion": "Eastern oldRegion",
+        "District": "West Akim Municipal District",
+        "Coverage": "Asamankese"
+    },
+    {
+        "digitalCode": "EX",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Birim North District",
+        "Coverage": "New Abirim"
+    },
+    {
+        "digitalCode": "EY",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Yilo Krobo Municipal District",
+        "Coverage": "Somanya"
+    },
+    {
+        "digitalCode": "EZ",
+        "oldRegion": "Eastern oldRegion",
+        "District": "Birim South District",
+        "Coverage": "Akim Swedru"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "Adabraka - GA050, GA074 - GA076, GA100 - GA103"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "Asylum Down - GA027, GA028, GA048, GA049, GA073"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "Gold Coast City - GA078, GA079, GA110, GA111"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "North Ridge - GA015 - GA017, GA028 - GA031, GA052 - GA054, GA076, GA080"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "Osu - GA032, GA035, GA055, GA056, GA081, GA082, GA112 - GA115, GA146 - 148"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "Tudu - GA105, GA106, GA141, GA142"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "Victoriaborg - GA143 - GA145, GA184 - GA186"
+    },
+    {
+        "digitalCode": "GA",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Accra Metropolitan District",
+        "Coverage": "West Ridge - GA050, GA051, GA077, GA107"
+    },
+    {
+        "digitalCode": "GB",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ashaiman Municipal District",
+        "Coverage": "Ashaiman, Tema communities 21 and 22"
+    },
+    {
+        "digitalCode": "GC",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ga Central Municipal District",
+        "Coverage": "Sowutuom"
+    },
+    {
+        "digitalCode": "GD",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Adentan Municipal District",
+        "Coverage": "Adenta"
+    },
+    {
+        "digitalCode": "GE",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ga East Municipal District",
+        "Coverage": "Abokobi"
+    },
+    {
+        "digitalCode": "GK",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Kpone Katamanso District",
+        "Coverage": "Kpone, Oyibi, Tema communities 24 and 25"
+    },
+    {
+        "digitalCode": "GL",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "La Dade Kotopon Municipal District",
+        "Coverage": "La, Labadi, Cantonments, Burma Camp, Airport City"
+    },
+    {
+        "digitalCode": "GM",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "La Nkwantanang Madina Municipal District",
+        "Coverage": "Madina"
+    },
+    {
+        "digitalCode": "GN",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ningo Prampram District",
+        "Coverage": "Prampram"
+    },
+    {
+        "digitalCode": "GO",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Shai Osudoku District",
+        "Coverage": "Dodowa"
+    },
+    {
+        "digitalCode": "GS",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ga South Municipal District",
+        "Coverage": "Weija"
+    },
+    {
+        "digitalCode": "GT",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Tema Metropolitan District",
+        "Coverage": "Tema communities 1 - 20, 23"
+    },
+    {
+        "digitalCode": "GW",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ga West Municipal District",
+        "Coverage": "Amasaman"
+    },
+    {
+        "digitalCode": "GX",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ada West District",
+        "Coverage": "Sege"
+    },
+    {
+        "digitalCode": "GZ",
+        "oldRegion": "Greater Accra oldRegion",
+        "District": "Ledzokuku-Krowor Municipal District",
+        "Coverage": "Teshie, Nungua, Baatsona"
+    },
+    {
+        "digitalCode": "N2",
+        "oldRegion": "Northern oldRegion",
+        "District": "North Gonja District",
+        "Coverage": "Daboya"
+    },
+    {
+        "digitalCode": "N3",
+        "oldRegion": "Northern oldRegion",
+        "District": "Central Gonja District",
+        "Coverage": "Buipe"
+    },
+    {
+        "digitalCode": "N4",
+        "oldRegion": "Northern oldRegion",
+        "District": "East Gonja District",
+        "Coverage": "Salaga"
+    },
+    {
+        "digitalCode": "N5",
+        "oldRegion": "Northern oldRegion",
+        "District": "West Gonja District",
+        "Coverage": "Damongo"
+    },
+    {
+        "digitalCode": "NA",
+        "oldRegion": "Northern oldRegion",
+        "District": "Kpandai District",
+        "Coverage": "Kpandai"
+    },
+    {
+        "digitalCode": "NB",
+        "oldRegion": "Northern oldRegion",
+        "District": "Bole District",
+        "Coverage": "Bole, Bamboi, Maluwe, Tinga, Tasilma, Mandari, Banda/Nkwanta"
+    },
+    {
+        "digitalCode": "NC",
+        "oldRegion": "Northern oldRegion",
+        "District": "Chereponi District",
+        "Coverage": "Chereponi"
+    },
+    {
+        "digitalCode": "ND",
+        "oldRegion": "Northern oldRegion",
+        "District": "West Mamprusi District",
+        "Coverage": "Walewale"
+    },
+    {
+        "digitalCode": "NE",
+        "oldRegion": "Northern oldRegion",
+        "District": "East Mamprusi District",
+        "Coverage": "Gambaga"
+    },
+    {
+        "digitalCode": "NF",
+        "oldRegion": "Northern oldRegion",
+        "District": "Tatale Sanguli District",
+        "Coverage": "Tatale"
+    },
+    {
+        "digitalCode": "NG",
+        "oldRegion": "Northern oldRegion",
+        "District": "Gushegu District",
+        "Coverage": "Gushegu"
+    },
+    {
+        "digitalCode": "NI",
+        "oldRegion": "Northern oldRegion",
+        "District": "Mion District",
+        "Coverage": "Sang"
+    },
+    {
+        "digitalCode": "NK",
+        "oldRegion": "Northern oldRegion",
+        "District": "Kumbugu District",
+        "Coverage": "Kumbugu"
+    },
+    {
+        "digitalCode": "NL",
+        "oldRegion": "Northern oldRegion",
+        "District": "Tolon District",
+        "Coverage": "Tolon"
+    },
+    {
+        "digitalCode": "NM",
+        "oldRegion": "Northern oldRegion",
+        "District": "Mamprugu Moaduri District",
+        "Coverage": "Yagaba"
+    },
+    {
+        "digitalCode": "NN",
+        "oldRegion": "Northern oldRegion",
+        "District": "Nanumba North District",
+        "Coverage": "Bimbilla"
+    },
+    {
+        "digitalCode": "NO",
+        "oldRegion": "Northern oldRegion",
+        "District": "Nanumba South District",
+        "Coverage": "Wulensi"
+    },
+    {
+        "digitalCode": "NP",
+        "oldRegion": "Northern oldRegion",
+        "District": "Bunkpurugu-Yunyoo District",
+        "Coverage": "Bunkpurugu"
+    },
+    {
+        "digitalCode": "NR",
+        "oldRegion": "Northern oldRegion",
+        "District": "Karaga District",
+        "Coverage": "Karaga"
+    },
+    {
+        "digitalCode": "NS",
+        "oldRegion": "Northern oldRegion",
+        "District": "Sagnerigu District",
+        "Coverage": "Sagnerigu"
+    },
+    {
+        "digitalCode": "NT",
+        "oldRegion": "Northern oldRegion",
+        "District": "Tamale Metropolitan District",
+        "Coverage": "Tamale"
+    },
+    {
+        "digitalCode": "NU",
+        "oldRegion": "Northern oldRegion",
+        "District": "Savelugu Nanton Municipal District",
+        "Coverage": "Savelugu"
+    },
+    {
+        "digitalCode": "NW",
+        "oldRegion": "Northern oldRegion",
+        "District": "Sawla Tuna Kalba District",
+        "Coverage": "Sawla"
+    },
+    {
+        "digitalCode": "NX",
+        "oldRegion": "Northern oldRegion",
+        "District": "Saboba District",
+        "Coverage": "Saboba"
+    },
+    {
+        "digitalCode": "NY",
+        "oldRegion": "Northern oldRegion",
+        "District": "Yendi Municipal District",
+        "Coverage": "Yendi"
+    },
+    {
+        "digitalCode": "NZ",
+        "oldRegion": "Northern oldRegion",
+        "District": "Zabzugu District",
+        "Coverage": "Zabzugu"
+    },
+    {
+        "digitalCode": "UA",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Bawku Municipal District",
+        "Coverage": "Bawku"
+    },
+    {
+        "digitalCode": "UB",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Bolgatanga Municipal District",
+        "Coverage": "Bolgatanga"
+    },
+    {
+        "digitalCode": "UG",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Garu Tempane District",
+        "Coverage": "Garu"
+    },
+    {
+        "digitalCode": "UK",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Kassena Nankana Municipal District",
+        "Coverage": "Navrongo"
+    },
+    {
+        "digitalCode": "UL",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Kassena Nankana West District",
+        "Coverage": "Paga"
+    },
+    {
+        "digitalCode": "UN",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Nabdam District",
+        "Coverage": "Nangodi"
+    },
+    {
+        "digitalCode": "UO",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Bongo District",
+        "Coverage": "Bongo"
+    },
+    {
+        "digitalCode": "UP",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Pusiga District",
+        "Coverage": "Pusiga"
+    },
+    {
+        "digitalCode": "UR",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Builsa North District",
+        "Coverage": "Sandema"
+    },
+    {
+        "digitalCode": "US",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Builsa South District",
+        "Coverage": "Fumbisi"
+    },
+    {
+        "digitalCode": "UT",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Talensi District",
+        "Coverage": "Tongo"
+    },
+    {
+        "digitalCode": "UU",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Binduri District",
+        "Coverage": "Binduri"
+    },
+    {
+        "digitalCode": "UW",
+        "oldRegion": "Upper East oldRegion",
+        "District": "Bawku West District",
+        "Coverage": "Zebilla"
+    },
+    {
+        "digitalCode": "VA",
+        "oldRegion": "Volta oldRegion",
+        "District": "Adaklu District",
+        "Coverage": "Adaklu Waya"
+    },
+    {
+        "digitalCode": "VB",
+        "oldRegion": "Volta oldRegion",
+        "District": "Biakoye District",
+        "Coverage": "Nkonya"
+    },
+    {
+        "digitalCode": "VC",
+        "oldRegion": "Volta oldRegion",
+        "District": "Hohoe Municipal District",
+        "Coverage": "Hohoe"
+    },
+    {
+        "digitalCode": "VD",
+        "oldRegion": "Volta oldRegion",
+        "District": "North Dayi Municipal District",
+        "Coverage": "Anfoega"
+    },
+    {
+        "digitalCode": "VE",
+        "oldRegion": "Volta oldRegion",
+        "District": "South Dayi District",
+        "Coverage": "Kpeve"
+    },
+    {
+        "digitalCode": "VF",
+        "oldRegion": "Volta oldRegion",
+        "District": "Afadzato South District",
+        "Coverage": "Ve Golokwati"
+    },
+    {
+        "digitalCode": "VG",
+        "oldRegion": "Volta oldRegion",
+        "District": "Agotime Ziope District",
+        "Coverage": "Kpetoe"
+    },
+    {
+        "digitalCode": "VH",
+        "oldRegion": "Volta oldRegion",
+        "District": "Ho Municipal District",
+        "Coverage": "Ho"
+    },
+    {
+        "digitalCode": "VI",
+        "oldRegion": "Volta oldRegion",
+        "District": "Ho West District",
+        "Coverage": "Dzolokpuita"
+    },
+    {
+        "digitalCode": "VJ",
+        "oldRegion": "Volta oldRegion",
+        "District": "Jasikan District",
+        "Coverage": "Jasikan"
+    },
+    {
+        "digitalCode": "VK",
+        "oldRegion": "Volta oldRegion",
+        "District": "Keta Municipal District",
+        "Coverage": "Keta"
+    },
+    {
+        "digitalCode": "VM",
+        "oldRegion": "Volta oldRegion",
+        "District": "Kadjebi District",
+        "Coverage": "Kadjebi"
+    },
+    {
+        "digitalCode": "VN",
+        "oldRegion": "Volta oldRegion",
+        "District": "Nkwanta North District",
+        "Coverage": "Kpassa"
+    },
+    {
+        "digitalCode": "VO",
+        "oldRegion": "Volta oldRegion",
+        "District": "Nkwanta South District",
+        "Coverage": "Nkwanta"
+    },
+    {
+        "digitalCode": "VP",
+        "oldRegion": "Volta oldRegion",
+        "District": "Kpando Municipal District",
+        "Coverage": "Kpando"
+    },
+    {
+        "digitalCode": "VQ",
+        "oldRegion": "Volta oldRegion",
+        "District": "Krachi Nchumuru District",
+        "Coverage": "Chindiri"
+    },
+    {
+        "digitalCode": "VR",
+        "oldRegion": "Volta oldRegion",
+        "District": "Krachi East District",
+        "Coverage": "Dambai"
+    },
+    {
+        "digitalCode": "VS",
+        "oldRegion": "Volta oldRegion",
+        "District": "Krachi West District",
+        "Coverage": "Kete Krachi"
+    },
+    {
+        "digitalCode": "VT",
+        "oldRegion": "Volta oldRegion",
+        "District": "North Tongu District",
+        "Coverage": "Battor Dugame"
+    },
+    {
+        "digitalCode": "VU",
+        "oldRegion": "Volta oldRegion",
+        "District": "South Tongu District",
+        "Coverage": "Sogakope"
+    },
+    {
+        "digitalCode": "VV",
+        "oldRegion": "Volta oldRegion",
+        "District": "Central Tongu District",
+        "Coverage": "Adidome"
+    },
+    {
+        "digitalCode": "VW",
+        "oldRegion": "Volta oldRegion",
+        "District": "Akatsi North District",
+        "Coverage": "Ave Dakpa"
+    },
+    {
+        "digitalCode": "VX",
+        "oldRegion": "Volta oldRegion",
+        "District": "Akatsi South District",
+        "Coverage": "Akatsi"
+    },
+    {
+        "digitalCode": "VY",
+        "oldRegion": "Volta oldRegion",
+        "District": "Ketu North District",
+        "Coverage": "Dzodze"
+    },
+    {
+        "digitalCode": "VZ",
+        "oldRegion": "Volta oldRegion",
+        "District": "Ketu South Municipal District",
+        "Coverage": "Denu"
+    },
+    {
+        "digitalCode": "WA",
+        "oldRegion": "Western oldRegion",
+        "District": "Aowin District",
+        "Coverage": "Enchi"
+    },
+    {
+        "digitalCode": "WB",
+        "oldRegion": "Western oldRegion",
+        "District": "Bibiani/Anhwiaso/Bekwai District",
+        "Coverage": "Bibiani"
+    },
+    {
+        "digitalCode": "WC",
+        "oldRegion": "Western oldRegion",
+        "District": "Bia East District",
+        "Coverage": "Adabokrom"
+    },
+    {
+        "digitalCode": "WD",
+        "oldRegion": "Western oldRegion",
+        "District": "Bia West District",
+        "Coverage": "Essam"
+    },
+    {
+        "digitalCode": "WE",
+        "oldRegion": "Western oldRegion",
+        "District": "Ellembelle District",
+        "Coverage": "Nkroful"
+    },
+    {
+        "digitalCode": "WF",
+        "oldRegion": "Western oldRegion",
+        "District": "Sefwi Akontombra District",
+        "Coverage": "Akontombra"
+    },
+    {
+        "digitalCode": "WG",
+        "oldRegion": "Western oldRegion",
+        "District": "Sefwi Wiawso Municipal District",
+        "Coverage": "Wiawso"
+    },
+    {
+        "digitalCode": "WH",
+        "oldRegion": "Western oldRegion",
+        "District": "Ahanta West District",
+        "Coverage": "Agona Ahanta"
+    },
+    {
+        "digitalCode": "WJ",
+        "oldRegion": "Western oldRegion",
+        "District": "Jomoro District",
+        "Coverage": "Half Assini"
+    },
+    {
+        "digitalCode": "WM",
+        "oldRegion": "Western oldRegion",
+        "District": "Mpohor District",
+        "Coverage": "Mpohor"
+    },
+    {
+        "digitalCode": "WN",
+        "oldRegion": "Western oldRegion",
+        "District": "Nzema East Municipal District",
+        "Coverage": "Axim"
+    },
+    {
+        "digitalCode": "WO",
+        "oldRegion": "Western oldRegion",
+        "District": "Bodi District",
+        "Coverage": "Bodi"
+    },
+    {
+        "digitalCode": "WP",
+        "oldRegion": "Western oldRegion",
+        "District": "Prestea Huni Valley District",
+        "Coverage": "Prestea"
+    },
+    {
+        "digitalCode": "WQ",
+        "oldRegion": "Western oldRegion",
+        "District": "Juaboso District",
+        "Coverage": "Juaboso"
+    },
+    {
+        "digitalCode": "WR",
+        "oldRegion": "Western oldRegion",
+        "District": "Shama District",
+        "Coverage": "Shama"
+    },
+    {
+        "digitalCode": "WS",
+        "oldRegion": "Western oldRegion",
+        "District": "Sekondi-Takoradi Metropolitan District",
+        "Coverage": "Sekondi-Takoradi"
+    },
+    {
+        "digitalCode": "WT",
+        "oldRegion": "Western oldRegion",
+        "District": "Tarkwa Nsuaem Municipal District",
+        "Coverage": "Tarkwa"
+    },
+    {
+        "digitalCode": "WU",
+        "oldRegion": "Western oldRegion",
+        "District": "Suaman District",
+        "Coverage": "Dadieso"
+    },
+    {
+        "digitalCode": "WW",
+        "oldRegion": "Western oldRegion",
+        "District": "Amenfi Central District",
+        "Coverage": "Manso Amenfi"
+    },
+    {
+        "digitalCode": "WX",
+        "oldRegion": "Western oldRegion",
+        "District": "Amenfi East District",
+        "Coverage": "Wassa-Akropong"
+    },
+    {
+        "digitalCode": "WY",
+        "oldRegion": "Western oldRegion",
+        "District": "Amenfi West District",
+        "Coverage": "Asankrangwa"
+    },
+    {
+        "digitalCode": "WZ",
+        "oldRegion": "Western oldRegion",
+        "District": "Wassa East District",
+        "Coverage": "Daboase"
+    },
+    {
+        "digitalCode": "XD",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Daffiama Bussie Issa District",
+        "Coverage": "Issa"
+    },
+    {
+        "digitalCode": "XJ",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Jirapa District",
+        "Coverage": "Jirapa"
+    },
+    {
+        "digitalCode": "XK",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Lambussi Karni District",
+        "Coverage": "Lambussi"
+    },
+    {
+        "digitalCode": "XL",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Lawra District",
+        "Coverage": "Lawra"
+    },
+    {
+        "digitalCode": "XN",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Nandom District",
+        "Coverage": "Nandom"
+    },
+    {
+        "digitalCode": "XO",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Nadowli Kaleo District",
+        "Coverage": "Nadowli"
+    },
+    {
+        "digitalCode": "XS",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Sissala East District",
+        "Coverage": "Tumu"
+    },
+    {
+        "digitalCode": "XT",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Sissala West District",
+        "Coverage": "Gwollu"
+    },
+    {
+        "digitalCode": "XW",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Wa Municipal District",
+        "Coverage": "Wa"
+    },
+    {
+        "digitalCode": "XX",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Wa East District",
+        "Coverage": "Funsi"
+    },
+    {
+        "digitalCode": "XY",
+        "oldRegion": "Upper West oldRegion",
+        "District": "Wa West District",
+        "Coverage": "Wechiau"
+    }
+]
